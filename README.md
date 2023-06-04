@@ -4,6 +4,7 @@
  <li><b>GDI Format (Users of ODEs or Emulators)</b><br>Download <a href="xxx">Super Puzzle Fighter 2X (English v1.0).dcp</a> for use with <a href="https://github.com/DerekPascarella/UniversalDreamcastPatcher">Universal Dreamcast Patcher</a> v1.3 or newer.</li>
  <li><b>CDI Format (Users Burning to CD-R)</b><br>Download <a href="xxx">Super Puzzle Fighter 2X (English v1.0).xdelta</a> for use with <a href="https://www.romhacking.net/utilities/704/">Delta Patcher</a> (or equivalent tools).</li>
 </ul>
+This English translation patch combines the original menu-text translation by <a href="https://www.romhacking.net/community/8124/">comradesnarky</a> from <a href="http://rdcproject.blogspot.com/">ReviveDC</a>, along with a new hack that leverage the game's secret built-in language selector to bring players a 100% complete English-language experience out of the box (sans text/graphics related to network play).  A special thanks to <a href="https://cdromance.com/">Spike</a> for pointing out the existence of the secret language-selection menu, which provided a foundation for modifying the game to default to English, rather than Japanese.
 
 <h2>Table of Contents</h2>
 
@@ -11,6 +12,7 @@
 2. [Credits](#credits)
 3. [Release Changelog](#release-changelog)
 4. [What's Changed](#whats-changed)
+5. [Important Notes)(#important-notes)
 
 <h2>Patching Instructions</h2>
 <ul>
