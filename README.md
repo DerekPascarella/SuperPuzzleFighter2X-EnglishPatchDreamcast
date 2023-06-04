@@ -54,3 +54,6 @@ This English translation patch combines the original status/information message 
  <li>All information and status messages appear in English.</li>
  <li>All in-game dialogue text appears in English.</li>
 </ul>
+
+<h2>Important Notes</h2>
+sdfsdfsdf
