@@ -48,7 +48,7 @@ This English translation patch combines the original status/information message 
 </ul>
 
 <h2>What's Changed</h2>
-<img align="right" width="300" height="225" src="https://github.com/DerekPascarella/SuperPuzzleFighter2X-EnglishPatchDreamcast/blob/main/screenshot.png?raw=true">Below is a high-level list of changes implemented for this English translation patch.
+<img align="right" width="149" height="112" src="https://github.com/DerekPascarella/SuperPuzzleFighter2X-EnglishPatchDreamcast/blob/main/screenshot.png?raw=true">Below is a high-level list of changes implemented for this English translation patch.
 <br><br>
 <ul>
  <li>All information and status messages appear in English.</li>
