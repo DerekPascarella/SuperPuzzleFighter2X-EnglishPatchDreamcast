@@ -4,7 +4,7 @@
  <li><b>GDI Format (Users of ODEs or Emulators)</b><br>Download <a href="xxx">Super Puzzle Fighter 2X (English v1.0).dcp</a> for use with <a href="https://github.com/DerekPascarella/UniversalDreamcastPatcher">Universal Dreamcast Patcher</a> v1.3 or newer.</li>
  <li><b>CDI Format (Users Burning to CD-R)</b><br>Download <a href="xxx">Super Puzzle Fighter 2X (English v1.0).xdelta</a> for use with <a href="https://www.romhacking.net/utilities/704/">Delta Patcher</a> (or equivalent tools).</li>
 </ul>
-This English translation patch combines the original menu-text translation by <a href="https://www.romhacking.net/community/8124/">comradesnarky</a> from <a href="http://rdcproject.blogspot.com/">ReviveDC</a>, along with a new hack that leverage the game's secret built-in language selector to bring players a 100% complete English-language experience out of the box (sans text/graphics related to network play).  A special thanks to <a href="https://cdromance.com/">Spike</a> for pointing out the existence of the secret language-selection menu, which provided a foundation for modifying the game to default to English, rather than Japanese.
+This English translation patch combines the original status/information message translation by <a href="https://www.romhacking.net/community/8124/">comradesnarky</a> from <a href="http://rdcproject.blogspot.com/">ReviveDC</a>, along with a new hack that leverage the game's secret built-in language selector to bring players a 100% complete English-language experience out of the box (sans text/graphics related to network play).  A special thanks to <a href="https://cdromance.com/">Spike</a> for pointing out the existence of the secret language-selection menu, which provided a foundation for modifying the game to default to English, rather than Japanese.
 
 <h2>Table of Contents</h2>
 
@@ -12,7 +12,7 @@ This English translation patch combines the original menu-text translation by <a
 2. [Credits](#credits)
 3. [Release Changelog](#release-changelog)
 4. [What's Changed](#whats-changed)
-5. [Important Notes)(#important-notes)
+5. [Important Notes](#important-notes)
 
 <h2>Patching Instructions</h2>
 <ul>
@@ -28,7 +28,7 @@ This English translation patch combines the original menu-text translation by <a
    <li>Derek Pascarella (ateam)</li>
   </ul>
  <br>
- <li><b>Original Menu Translation</b></li>
+ <li><b>Original Status/Information Text Translation</b></li>
   <ul>
    <li>comradesnarky</li>
   </ul>
@@ -41,7 +41,7 @@ This English translation patch combines the original menu-text translation by <a
 
 <h2>Release Changelog</h2>
 <ul>
- <li>Version 1.0 (2023-XX-XX)</li>
+ <li>Version 1.0 (2023-06-04)</li>
  <ul>
   <li>Initial release.</li>
  </ul>
@@ -51,5 +51,6 @@ This English translation patch combines the original menu-text translation by <a
 <img align="right" width="300" height="225" src="https://github.com/DerekPascarella/SuperPuzzleFighter2X-EnglishPatchDreamcast/blob/main/screenshot.png?raw=true">Below is a high-level list of changes implemented for this English translation patch.
 <br><br>
 <ul>
- <li>All 12,000+ lines of Japanese dialogue text have been translated.</li>
+ <li>All information and status messages appear in English.</li>
+ <li>All in-game dialogue text appears in English.</li>
 </ul>
