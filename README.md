@@ -1,8 +1,8 @@
 <h1>Super Puzzle Fighter 2X</h1>
 <img width="165" height="165" align="right" src="https://github.com/DerekPascarella/SuperPuzzleFighter2X-EnglishPatchDreamcast/blob/main/cover.jpg?raw=true">Download the English translation patch (more information in the <a href="#patching-instructions">Patching Instructions</a> section):
 <ul>
- <li><b>GDI Format (Users of ODEs or Emulators)</b><br>Download <a href="xxx">Super Puzzle Fighter 2X (English v1.0).dcp</a> for use with <a href="https://github.com/DerekPascarella/UniversalDreamcastPatcher">Universal Dreamcast Patcher</a> v1.3 or newer.</li>
- <li><b>CDI Format (Users Burning to CD-R)</b><br>Download <a href="xxx">Super Puzzle Fighter 2X (English v1.0).xdelta</a> for use with <a href="https://www.romhacking.net/utilities/704/">Delta Patcher</a> (or equivalent tools).</li>
+ <li><b>GDI Format (Users of ODEs or Emulators)</b><br>Download <a href="https://github.com/DerekPascarella/SuperPuzzleFighter2X-EnglishPatchDreamcast/releases/download/1.0/Super.Puzzle.Fighter.2X.English.v1.0.dcp">Super Puzzle Fighter 2X (English v1.0).dcp</a> for use with <a href="https://github.com/DerekPascarella/UniversalDreamcastPatcher">Universal Dreamcast Patcher</a> v1.3 or newer.</li>
+ <li><b>CDI Format (Users Burning to CD-R)</b><br>Download <a href="https://github.com/DerekPascarella/SuperPuzzleFighter2X-EnglishPatchDreamcast/releases/download/1.0/Super.Puzzle.Fighter.2X.English.v1.0.xdelta">Super Puzzle Fighter 2X (English v1.0).xdelta</a> for use with <a href="https://www.romhacking.net/utilities/704/">Delta Patcher</a> (or equivalent tools).</li>
 </ul>
 This English translation patch combines the original status/information message translation by <a href="https://www.romhacking.net/community/8124/">comradesnarky</a> from <a href="http://rdcproject.blogspot.com/">ReviveDC</a>, along with a new hack that leverage the game's secret built-in language selector to bring players a 100% complete English-language experience out of the box (sans text/graphics related to network play).  A special thanks to <a href="https://cdromance.com/">Spike</a> for pointing out the existence of the secret language-selection menu, which provided a foundation for modifying the game to default to English, rather than Japanese.
 
@@ -56,4 +56,16 @@ This English translation patch combines the original status/information message 
 </ul>
 
 <h2>Important Notes</h2>
-sdfsdfsdf
+Because this patch does not permanently hardcode the English-language setting, the secret "extra" options menu remains functional.  If booting the game with this patch applied while using a VMU containing an old save from the original Japanese retail version (or the previous incomplete English translation patch), the language setting present at the time of writing said save file will be restored.  Ultimately, this means no in-game dialogue text will appear in English.  Two options exist to remedy the problem.
+<br><br>
+<ol>
+ <li>Delete the old save file from the VMU, or use a different VMU where no such save is present.</li>
+ <li>Enter the secret "extra" options menu to set the game's language to English.</li>
+  <ul>
+   <li>After the title screen, navigate down to the "OPTIONS" setting.</li>
+   <li>Hold the L and R buttons on the controller, then press Start to select "OPTIONS".</li>
+   <li>Inside the menu that appears, select "ALL GAMES".</li>
+   <li>Navigate down to "Version", then select "U.S.A.".</li>
+   <li>Navigate down and select "Exit" to return to the main menu.</li>
+ </ul>
+</ol>
