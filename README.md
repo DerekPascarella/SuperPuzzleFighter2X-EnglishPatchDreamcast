@@ -61,7 +61,7 @@ This patch leaves the secret "extra" options menu functional.  Rather than ubiqu
 If booting the game with this patch applied while using a VMU containing an old save from the original Japanese retail version (or the previous incomplete English translation patch), the language setting present at the time of writing said save file will be restored.  Ultimately, this means no in-game dialogue text will appear in English.  Two options exist to remedy the problem.
 <br><br>
 <ol>
- <li>Delete the old save file from the VMU, or use a different VMU where no such save is present.<br></li>
+ <li>Delete the old save file from the VMU, or use a different VMU where no such save is present.<br><br></li>
  <li>Enter the secret "extra" options menu to set the game's language to English.</li>
   <ul>
    <li>After the title screen, navigate down to the "OPTIONS" setting.</li>
