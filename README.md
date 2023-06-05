@@ -56,7 +56,7 @@ This English translation patch combines the original status/information message 
 </ul>
 
 <h2>Important Notes</h2>
-This patch leaves the secret "extra" options menu functional.  Rather than ubiquitously hardcoding English throughout the game, the default language setting is changed from Japanese to English.  Doing so permits players to change between additional supported languages if they so choose.  However, this can also prevent English text from being displayed under a certain condition.
+This patch leaves the secret "extra" options menu functional (accessible by holding L+R buttons when selecting "OPTIONS" after the title screen).  Rather than ubiquitously hardcoding English throughout the game, the default language setting is changed from Japanese to English.  Doing so permits players to change between additional supported languages if they so choose.  However, this can also prevent English text from being displayed under a certain condition.
 <br><br>
 If booting the game with this patch applied while using a VMU containing an old save from the original Japanese retail version (or the previous incomplete English translation patch), the language setting present at the time of writing said save file will be restored.  Ultimately, this means no in-game dialogue text will appear in English.  Two options exist to remedy the problem.
 <br><br>
