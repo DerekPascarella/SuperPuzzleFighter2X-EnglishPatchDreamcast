@@ -43,11 +43,11 @@ This English translation patch combines the original status/information message 
 
 <h2>Release Changelog</h2>
 <ul>
- <li>Version 1.1 (2023-06-10)</li>
+ <li><b>Version 1.1 (2023-06-10)</b></li>
  <ul>
   <li>Translated VMU save file metadata into English.</li>
  </ul>
- <li>Version 1.0 (2023-06-04)</li>
+ <li><b>Version 1.0 (2023-06-04)</b></li>
  <ul>
   <li>Initial release.</li>
  </ul>
