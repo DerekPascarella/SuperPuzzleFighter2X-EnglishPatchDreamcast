@@ -70,8 +70,8 @@ Leaving the language selection menu in-tact, however, can also prevent English t
 If booting this patched game while using a VMU containing an old save from the original Japanese retail version (or the previous incomplete English translation patch), the language setting present at the time of writing said save file will be restored.  Ultimately, this means no in-game dialogue text will appear in English.  Two options exist to remedy the problem.
 <br><br>
 <ol>
- <li>Delete the old save file from the VMU, or use a different VMU where no such save is present.</li>
- <li>Enter the secret "extra" options menu to set the game's language to English.</li>
+ <li><b>Option 1:</b> Delete the old save file from the VMU, or use a different VMU where no such save is present.</li>
+ <li><b>Option 2:</b> Enter the secret "extra" options menu to set the game's language to English.</li>
   <ul>
    <li>After the title screen, navigate down to the "OPTIONS" setting.</li>
    <li>Hold the L and R buttons on the controller, then press Start to select "OPTIONS".</li>
